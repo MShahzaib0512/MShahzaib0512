@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=005571&height=200&section=header&text=Muhammad%20Shahzaib&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=005571&center=true&vCenter=true&width=435&lines=Muhammad+Shahzaib;Backend+Developer;Python+Specialist" alt="Typing SVG" />
 </p>
 
 ### 🚀 Backend Developer | Python Specialist | CS Senior at IUB
