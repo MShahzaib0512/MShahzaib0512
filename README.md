@@ -26,14 +26,6 @@ I am a results-driven **Backend Developer** currently working at **Enigmatix**, 
 | **Automation & Scraping** | ![Scrapy](https://img.shields.io/badge/-Scrapy-60A665?style=flat-square&logo=scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
 | **Databases & Tools** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MShahzaib0512&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
-</p>
-
----
 
 ### 📊 GitHub Insights
 
